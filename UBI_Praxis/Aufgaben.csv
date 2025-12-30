@@ -1,0 +1,118 @@
+Frage;Antwort A;Antwort B;Antwort C;Antwort D;Richtige Antwort
+"Sie fahren mit Ihrem Fahrgastschiff Anja/DK1872 auf dem Rhein bei km 670, Ortslage Wesseling, zu Berg. An Bord ist ein Feuer ausgebrochen. Sie sind nicht in der Lage, es zu löschen. Leiten Sie den notwendigen Funkverkehr ein.";;;;;"Handbuch Binnenschifffahrtsfunk
+Vorbereitung 1.) Rang bestimmen: Notfall
+2.) Verkehrskreis festlegen: NIF. Im Notfall vorzugsweise Revierzentrale anrufen; dazu dem Handbuch Binnenschifffahrtsfunk den Kanal entnehmen: Duisburg Revierzentrale, Kanal 21.
+(Die Notmeldung darf auch im Verkehrskreis 1 Schiff-Schiff (Kanal 10) verbreitet werden, aber nur mit reduzierter Leistung.)
+3.) Sendeleistung festlegen: 25 W (1 W)
+Funkgerät: ATIS, Kanal 21 mit 25 W oder Kanal 10 mit 1 W, Rauschsperre, Sendetaste
+
+Mayday Mayday Mayday
+This is
+Fahrgastschiff Anja Anja Anja/DK1872
+Mayday Fahrgastschiff Anja/DK1872
+Zu Berg bei Rheinkilometer 670
+An Bord ist Feuer ausgebrochen
+Wir sind nicht in der Lage, das Feuer zu löschen
+Sofortige Hilfe erbeten
+Bitte kommen"
+"Sie fahren mit Ihrer Motoryacht TAMARA/DP8645 auf dem Rhein zu Berg und befinden sich bei Rheinkilometer 690, Ortslage Köln, Höhe Severins Brücke. Sie haben einen Notfall. Ihr Notverkehr läuft auf Kanal 10 im Verkehrskreis Schiff-Schiff. Plötzlich stört ein unbekanntes Schiff Ihren Notverkehr durch einen Routineanruf. Leiten Sie den notwendigen Funkverkehr ein, damit der Störer den Notverkehr nicht weiter stört.";;;;;"Handbuch Binnenschifffahrtsfunk
+Vorbereitung 1.) Rang bestimmen: Not, Silence Mayday
+2.) Verkehrskreis festlegen: Verkehrskreis 1 Schiff-Schiff, Kanal 10
+3.) Sendeleistung festlegen: 1 W
+Funkgerät: ATIS, Kanal 10, 1 W, Rauschsperre, Sendetaste
+
+All Stations
+Silence Mayday"
+"Sie befinden sich mit Ihrer Motoryacht FLOWERPOWER/DQ2704 in der Bergfahrt auf dem Rhein. Bei Rheinkilometer 814, Ortslage Wesel, haben Sie Grundberührung und daraus folgend einen Ruderschaden. Sie werfen den Anker, um ein unkontrolliertes Abtreiben zu verhindern und brauchen jetzt dringend Hilfe. Leiten Sie den notwendigen Funkverkehr ein.";;;;;"Handbuch Binnenschifffahrtsfunk
+Vorbereitung 1.) Rang bestimmen: Dringlichkeit
+2.) Verkehrskreis festlegen: Verkehrskreis 2 NIF, Duisburg Revierzentrale, Kanal 22
+3.) Sendeleistung festlegen: 25 W
+Funkgerät: ATIS, Kanal 22, 25 W, Rauschsperre, Sendetaste
+
+Pan Pan Pan Pan Pan Pan
+Duisburg Revierzentrale Duisburg Revierzentrale Duisburg Revierzentrale
+This is
+Flowerpower Flowerpower Flowerpower/DQ2704
+Auf dem Rhein, Kilometer 814, zu Berg
+Hatte Grundberührung und dadurch Ruderschaden, liege jetzt vor Anker
+Benötige dringend Hilfe
+Bitte kommen"
+"Sie fahren mit Ihrer Motoryacht MY WAY/DL4470 auf der Ruhr bei Flusskilometer 1,2 in der Nähe von Duisburg. Dort beobachten Sie einen Schubleichter, der quer im Fahrwasser treibt. Leiten Sie den notwendigen Funkverkehr ein.";;;;;"Handbuch Binnenschifffahrtsfunk
+Vorbereitung 1.) Rang bestimmen: Sicherheit
+2.) Verkehrskreis festlegen: Verkehrskreis 2 NIF, Duisburg Revierzentrale, Kanal 78 oder Verkehrskreis 1, Kanal 10
+3.) Sendeleistung festlegen: 1 W
+Funkgerät: ATIS, Kanal 78, 1 W, Rauschsperre, Sendetaste
+
+Sécurité Sécurité Sécurité
+Duisburg Revierzentrale Duisburg Revierzentrale Duisburg Revierzentrale
+This is
+My Way My Way My Way/DL4470
+Auf der Ruhr bei Kilometer 1,2
+Ein Schubleichter treibt quer im Fahrwasser
+Ende"
+"Sie befinden sich mit Ihrer Segelyacht HEIN MÜCK/DF2145 auf dem Rhein bei Kilometer 707 in Höhe der Hafeneinfahrt zum Sportboothafen Leverkusen-Hitdorf. Als Teilnehmer der Rheinwoche hatten Sie gegen 12.45 Uhr Mastbruch erlitten und per Sprechfunk auf Kanal 10 um Hilfe gebeten. Der Dringlichkeitsfall ist beendet. Leiten Sie den notwendigen Funkverkehr ein.";;;;;"Handbuch Binnenschifffahrtsfunk
+Vorbereitung 1.) Rang bestimmen: Dringlichkeit
+2.) Verkehrskreis festlegen: Verkehrskreis 1 Schiff-Schiff, Kanal 10
+3.) Sendeleistung festlegen: 1 W
+Funkgerät: ATIS, Kanal 10, 1 W, Rauschsperre, Sendetaste
+
+Pan Pan Pan Pan Pan Pan
+All Stations All Stations All Stations
+This is
+Hein Mück Hein Mück Hein Mück/DF2145
+Bei Rheinkilometer 707
+Ich hebe meine Dringlichkeitsmeldung von 12:45 Uhr auf
+Der Mast ist geborgen
+Ende"
+"Sie fahren mit Ihrem Motorsegler BARBARA/DF8760 auf dem Rhein bei Stromkilometer 336, Ortslage Beinheim, zu Berg und beabsichtigen die Schleuse Iffezheim zu passieren. Leiten Sie den notwendigen Funkverkehr ein.";;;;;"Handbuch Binnenschifffahrtsfunk
+Vorbereitung 1.) Rang bestimmen: Routine
+2.) Verkehrskreis festlegen: Verkehrskreis 2 NIF, Iffezheim Schleuse, Kanal 24
+3.) Sendeleistung festlegen: 1 W
+Funkgerät: ATIS, Kanal 24, 1 W, Rauschsperre, Sendetaste
+
+Iffezheim Schleuse Iffezheim Schleuse Iffezheim Schleuse
+This is
+Barbara Barbara Barbara/DF8760
+Bei Rheinkilometer 336, zu Berg
+Ich möchte schleusen
+Ende"
+"Sie fahren mit Ihrem über 20 Meter langen Motorboot LIEBESTRAUM/DC8165 bei Rheinkilometer 605, Höhe Neuwied, auf dem Rhein zu Tal und beabsichtigen zu wenden, um in den Yachthafen Neuwied einzulaufen. Leiten Sie den notwendigen Funkverkehr ein.";;;;;"Handbuch Binnenschifffahrtsfunk
+Vorbereitung 1.) Rang bestimmen: Routine
+2.) Verkehrskreis festlegen: Verkehrskreis 1 Schiff-Schiff, Kanal 10
+3.) Sendeleistung festlegen: 1 W
+Funkgerät: ATIS, Kanal 10, 1 W, Rauschsperre, Sendetaste
+
+All Stations All Stations All Stations
+This is
+Liebestraum Liebestraum Liebestraum/DC8165
+Bei Rheinkilometer 605, zu Tal
+Ich möchte wenden, um in den Yachthafen Neuwied einzulaufen
+Ende"
+"Sie befinden sich mit Ihrem Motorsegler CLARA/DD7250 auf dem Neckar bei Stromkilometer 46. Ein Besatzungsmitglied ist vom Mast gestürzt und sehr schwer verletzt. Sie benötigen sofort medizinische Hilfe. Leiten Sie den notwendigen Funkverkehr ein.";;;;;"Handbuch Binnenschifffahrtsfunk
+Vorbereitung 1.) Rang bestimmen: Not, Mayday
+2.) Verkehrskreis festlegen: Hirschhorn Schleuse, Kanal 18
+3.) Sendeleistung festlegen: 25 W
+Funkgerät: ATIS, Kanal 18, 25 W, Rauschsperre, Sendetaste
+
+Mayday Mayday Mayday
+This is
+Motorsegler Clara Clara Clara/DD7250
+Mayday Motorsegler Clara/DD7250
+Bei Neckarkilometer 46
+Ein Besatzungsmitglied ist vom Mast gestürzt und sehr schwer verletzt
+Benötigen sofort medizinische Hilfe
+Bitte kommen"
+"Ihr Motorboot WACHSAM/DC2721 fährt bei Elbekilometer 423 zu Tal. Sie beobachten einen ohnmächtigen Segler auf einer kleinen Jolle. Melden Sie den Vorfall.";;;;;"Handbuch Binnenschifffahrtsfunk
+Vorbereitung 1.) Rang bestimmen: Not, Mayday Relay
+2.) Verkehrskreis festlegen: Verkehrskreis 2 NIF, Magdeburg Revierzentrale, Kanal 82
+3.) Sendeleistung festlegen: 25 W
+Funkgerät: ATIS, Kanal 82, 25 W, Rauschsperre, Sendetaste
+
+Mayday Relay Mayday Relay Mayday Relay
+Magdeburg Revierzentrale Magdeburg Revierzentrale Magdeburg Revierzentrale
+This is
+Wachsam Wachsam Wachsam/DC2721
+Bei Elbekilometer 423, zu Tal
+Ich beobachte einen ohnmächtigen Segler auf einer kleinen Jolle
+Bitte kommen"
+

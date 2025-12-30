@@ -12,6 +12,7 @@ TARGET_FOLDERS = [
     "UBI_Ergaenzungsfragenkatalog",
     "UBI_Gesamtfragenkatalog",
     "FKN_Fachkundenachweis",
+    "UBI_Praxis"
 ]
 
 IN_DELIMITER = ";"
