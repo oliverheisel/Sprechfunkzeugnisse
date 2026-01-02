@@ -1,0 +1,208 @@
+Weather;Wetter
+weather report;Wetterbericht
+weather forecast;Wettervorhersage
+pressure;Luftdruck
+outlook;Aussichten
+gale warning;Sturmwarnung
+hurricane;Orkan
+westerly;Westwind
+veering;rechtdrehend
+backing;rückdrehend
+shifting wind;Drehen
+variable/cyclonic;umlaufend
+gust;Bö
+decrease;abnehmen
+increasing;zunehmend
+deterioration;Verschlechterung
+on-shore wind;Seewind
+off-shore wind;Landwind
+thunderstorm;Gewitter
+thundery;gewitterig
+fog / mist;Nebel
+haze;Dunst
+precipitation;Niederschlag
+drizzle;Nieselregen
+rain / rainfall;Regen
+sleet;Schneeregen
+hail;Hagel
+shower;Regenschauer
+showery;Schauerwetter
+low;Tief
+cyclone;Sturmtief
+depression;Tiefdruckgebiet
+course line;Zugbahn
+rear of depression;Rückseite des Tiefs
+coldfront;Kaltfront
+anticyclone;Hochdruckgebiet
+disturbance;Störung
+overcast;bedeckt
+cloudy;bewölkt
+visibility;Sicht
+good;gute Sicht
+moderate;mäßige Sicht
+poor;schlechte Sicht
+heavy sea;schwere See
+breaker;Brecher
+breakers / surf;Brandung
+swell;Dünung/Seegang
+Radio telephony;Sprechfunk
+to be in radiocontact with;in Funkkontakt stehen mit
+radio message;Funkspruch
+VHF channel 06;UKW-Kanal 06
+to transmit;senden
+to receive;empfangen
+I wish a call;ich möchte ein Gespräch
+I am passing a message;ich übermittele eine Nachricht
+I read you;ich empfange Sie
+I am ready to receive;ich bin empfangsbereit
+Distress-Urgency-Safety;Seenot-Dringlichkeit-Sicherheit
+distress alert;Seenotalarm
+search and rescue;Suche und Rettung
+emergency transmitter;Notsender
+assistance immediately;sofortige Hilfe
+what assistance is required;welche Art Hilfe ist erforderlich
+send a lifeboat;schicken Sie ein Rettungsboot
+I’m coming to assistance;ich komme zu Hilfe
+helicopter is proceeding;Hubschrauber kommt
+life- / survival raft;Rettungsinsel
+life vest, life jacket;Rettungsweste
+undesignated distress;Notfall ohne genauere Angabe
+sinking;Schiff sinkt
+grounding;Grundberührung
+flooding;Wassereinbruch
+collision;Kollision
+list / listing;Schlagseite
+danger of capsizing;Kentergefahr
+disabled and adrift;manövrierunfähig vertrieben
+abandoning ship;Schiff wird verlassen
+bottom up adrift;kieloben treibend
+salvage;Bergung
+man overboard;Mann über Bord
+one person missing;eine Person wird vermißt
+help with search and rescue;Hilfe bei Suche und Rettung
+to assist;Beistand leisten
+to keep a sharp look out;scharf Ausguck halten
+seriously injured person;schwer verletzte Person
+medical assistance;ärztliche Hilfe
+engine broken down;Maschine ausgefallen
+tug assistance required;Schlepphilfe erbeten
+vessel not under command;manövrierunfähiges Schiff
+overdue yacht;überfällige Yacht
+radiomedical assistance;funkärztliche Beratung
+buoy unlit;Tonne verlöscht
+dangerous wreck;gefährliches Wrack
+(drilling) rig;Bohrinsel
+container adrift in position;treibender Container auf Position
+keep clear of this area;meiden Sie dieses Gebiet
+wide berth to requested;großer Abstand wird erbeten
+danger for navigation;Gefahr für die Schiffahrt
+navigate with caution;fahren/navigieren Sie vorsichtig
+Leucht-Heultonne Humber 5;light and whistle buoy Humber 5
+scharf Ausschau halten;to keep sharp lookout
+Schiffe in dem Gebiet;Ships in area
+Position, Kurs und Geschwindigkeit angeben;indicate position, course and speed
+rechtweisende Peilung 45 Grad;true bearing of 45 degrees
+rechtweisender Kurs 275 Grad;true course 275 degrees
+Geschwindigkeit 13 Knoten;speed 13 knots
+unterwegs;underway
+vorsichtig navigieren;navigate carefully
+In der Nähe;in vicinity
+Mehr als 2 sm Abstand halten;to keep a berth of more than 2 nm
+Fahrwasser;fairway
+Seeschifffahrtsstraße;waterway
+Nautische Warnung;navigational warning
+Austausch der Betonnung;replacement of buoyage
+Tiefwasserweg;deep water way
+südlich Kap Spartivento;south of Cape Spartivento
+verließ Klintholm am 16. Juli;left Klintholm on July 16th
+um 0600 Ortszeit;at 0600 local time
+Bestimmungshafen Visby;bound for Visby
+Westliche Ostsee;Western Baltic Sea
+Verkehrstrennungsgebiet südlich Gedser;traffic separation scheme south of Gedser
+Den Helder und Den Oever;Den Helder and Den Oever
+Leucht-Heultonne verlöscht gemeldet;light and whistle buoy reported unlit
+Schauer;showers
+mäßige bis schlechte Sicht;moderate to poor visibility
+raue See;rough sea
+West 8 bis 9, abnehmend 7;west force 8 to 9, decreasing to force 7
+sehr schwere See und hohe Dünung;very rough sea and high swell
+Vorhersagegebiet Dogger Bank;forecast area Dogger Bank
+starke westliche Winde;strong westerly winds
+zunehmend auf Sturmstärke;increasing to gale
+später rechtsdrehend;veering later
+zeitweise Sprühregen;drizzle at times
+rechtsdrehend auf Nordwest Stärke 5;veering to northwest force 5
+gekentertes Rettungsfloß beobachtet;capsized liferaft observed
+Überlebende wurden nicht gesichtet;survivors were not sighted
+Feuer im Motorraum;fire in engine room
+zwei Personen schwer verletzt;two persons are seriously injured
+wir müssen das Schiff verlassen;we have to abandon the vessel
+benötigen sofortige Hilfe;require immediate help
+Person über Bord;person over board
+zuletzt gesichtet;last seen
+Seenotleitung Bremen;Maritime Rescue Co-ordination Centre Bremen
+Ruder gebrochen;broken rudder
+treiben in rauer See auf die Sände zu;drifting in rough sea towards the banks
+habe starke Schlagseite nach Backbord / Steuerbord;heavy list to port / starboard side
+Rote Raketen beobachtet;red rockets observed
+Schiff befindet sich im kritischen Zustand;ship is in critical condition
+Position ansteuern, um Hilfe zu leisten;approach to position for assistance
+folgendes auf UKW-Kanal 16 empfangen;following received on VHF channel 16
+benötigen Hubschrauber und medizinische Hilfe;require helicopter and medical assistance
+Schiff brennt;vessel on fire
+Feuer nicht unter Kontrolle;fire not under control
+Besatzungsmitglied ist bewusstlos;a crew member is unconscious
+Verdacht auf Herzinfarkt;suspect of heart attack
+Schiff treibt wegen Maschinenausfall;due to engine trouble ship is drifting
+benötigen dringend Schlepperhilfe;require immediate tug assistance
+Feuer in den Aufbauten;fire in superstructures
+Hilfe bei der Brandabwehr;assist in fire fighting
+Wegen defekter Ruderanlage;due to defective steering gear
+Besatzungsmitglied vom Mast gefallen;a crew member has fallen off the mast
+benötigen dringend ärztliche Hilfe;require urgent medical assistance
+Kollision mit Fischereifahrzeug;collision with fishing vessel
+Yacht sinkt nach Wassereinbruch;yacht is sinking after flooding
+Der US Küstenwache berichten;report to US Coast Guard
+Gebrochener Mast;broken mast
+Ruderschaden;damaged rudder
+an Bord;on board
+an Lyngby Radio berichten;report to Lyngby Radio
+ankern;to anchor
+auf der Route;on this route
+Backbord;port side
+bisher nicht eingetroffen;not yet arrived
+dringend;urgent
+empfangen;received
+Fischereigeschirr benutzen;use fishing gear
+fortgeführt;in progress
+Gebiet;area
+Kurs;course
+mögliche Hilfeleistung;possible assistance
+Nachrichten für Seefahrer;notices to mariners
+Ortszeit;local time
+Position;position
+rasch zunehmend;rapidly increasing
+Regen;rain
+Rettungsfloß;liferaft
+rot gestrichene;red painted
+Schlepperhilfe;tug assistance
+Seenotleitung;MRCC
+sinken;sinking
+Stärke;force
+Überlebende;survivors
+US Küstenwache;US Coast Guard
+Verkehrstrennungsgebiet;traffic separation scheme
+werden gebeten;are requested
+weder noch;neither … nor …
+zwei Personen;two persons
+zwischen;between
+12 m Länge;length 12 m
+roter Rumpf;red hull
+weiße Segel;white sails
+Weiße Aufbauten;white superstructure
+seit dem 16. Januar überfällig;overdue since January 16th
+mehrere rot gestrichene 40-Fuß-Container;several drifting 40-feet containers, red painted
+Aufschrift TEXASCON;marked with TEXASCON
+Anker verloren;lost anchor
+weder ankern noch Fischereigeschirr nutzen;neither to anchor nor to use fishing gear
+Unterwasser-Kabelarbeiten;underwater cable operations
