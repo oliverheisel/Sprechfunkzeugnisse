@@ -1,2 +1,2 @@
 # Sprechfunkzeugnisse
-![Sprechfunkzeugnisse Header](Sprechfunkzeugnisse/admin/Sprechfunkzeugnisse_Header.png)
+![Sprechfunkzeugnisse Header](admin/Sprechfunkzeugnisse_Header.png)
